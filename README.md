@@ -28,10 +28,22 @@ A complete, production-ready e-commerce application built with **Flutter** and *
 
 ## 📱 Screenshots
 
+ <p <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205700.png" width="45%" alt="" />
+  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205705.png" width="45%" alt="" />
+</p>
+<p align="center">
+ <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205846.png" width="45%" alt="" />
+  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205850.png" width="45%" alt="" />
+</p>
+<p align="center">
+<img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205959.png" width="45%" alt="" />
+  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210003.png" width="45%" alt="" />
+</p>
+<p align="center">
+<img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210006.png" width="45%" alt="" />
+  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210016.png" width="45%" alt="" />
+</p>
 
-| Storefront | Product Details | Full-Screen Zoom | Merchant Dashboard | Manage Inventory |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="link_to_home_image" width="150"> | <img src="link_to_details_image" width="150"> | <img src="link_to_zoom_image" width="150"> | <img src="link_to_dashboard_image" width="150"> | <img src="link_to_inventory_image" width="150"> |
 
 ### Installation
 
