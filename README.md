@@ -2,6 +2,26 @@
 
 A complete, production-ready e-commerce application built with **Flutter** and **Firebase**. This project goes beyond a simple UI clone by implementing a dual-role system: a beautiful storefront for customers to browse and buy, and a secure, real-time control center for merchants to manage their business.
 
+## 📱 Screenshots
+
+ <p align="center">
+ <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205700.png" width="35%"  alt="" />
+  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205705.png" width="35%"  alt="" />
+</p>
+<p align="center">
+ <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205846.png" width="35%" alt="" />
+  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205850.png" width="35%" alt="" />
+</p>
+<p align="center">
+<img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205959.png" width="35%" alt="" />
+  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210003.png" width="35%" alt="" />
+</p>
+<p align="center">
+<img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210006.png" width="35%" alt="" />
+  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210016.png" width="35%" alt="" />
+</p>
+
+
 ## ✨ Key Features
 
 ### 🛍️ Customer Storefront
@@ -26,23 +46,6 @@ A complete, production-ready e-commerce application built with **Flutter** and *
   * **Cloud Firestore:** Real-time NoSQL database for products, users, orders, and reviews.
   * **Cloud Storage:** Secure hosting for physical product image uploads.
 
-## 📱 Screenshots
-
- <p <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205700.png" width="45%" alt="" />
-  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205705.png" width="45%" alt="" />
-</p>
-<p align="center">
- <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205846.png" width="45%" alt="" />
-  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205850.png" width="45%" alt="" />
-</p>
-<p align="center">
-<img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-205959.png" width="45%" alt="" />
-  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210003.png" width="45%" alt="" />
-</p>
-<p align="center">
-<img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210006.png" width="45%" alt="" />
-  <img src="https://github.com/manjeetdeswal/flutter-ecommerce-with-admin-panel/blob/master/ss/Screenshot_20260315-210016.png" width="45%" alt="" />
-</p>
 
 
 ### Installation
