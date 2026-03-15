@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAGYMpfjjJlai_Y2xwQKHefUrIa2EpcOsw',
-    appId: '1:103251756211:web:fedfdd4773d44479f4dcc6',
+    apiKey: 'fasdfjlksadfjsfsdfsf',
+    appId: 'fdasfhjdshfhdsaklfsdjafs',
     messagingSenderId: '103251756211',
     projectId: 'e-commerce-bbf91',
     authDomain: 'e-commerce-bbf91.firebaseapp.com',
@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDPJlseIgcAl5qgfYfXnvE9-uT5rI7acMA',
-    appId: '1:103251756211:android:2ac9539d997a4f03f4dcc6',
+   apiKey: 'fasdfjlksadfjsfsdfsf',
+    appId: 'fdasfhjdshfhdsaklfsdjafs',
     messagingSenderId: '103251756211',
     projectId: 'e-commerce-bbf91',
     storageBucket: 'e-commerce-bbf91.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBF5IufMSB6Cfsqi1j6XlI3Eysi2qApFuc',
-    appId: '1:103251756211:ios:de55e61986a3fcadf4dcc6',
+    apiKey: 'fasdfjlksadfjsfsdfsf',
+    appId: 'fdasfhjdshfhdsaklfsdjafs',
     messagingSenderId: '103251756211',
     projectId: 'e-commerce-bbf91',
     storageBucket: 'e-commerce-bbf91.firebasestorage.app',
@@ -67,8 +67,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBF5IufMSB6Cfsqi1j6XlI3Eysi2qApFuc',
-    appId: '1:103251756211:ios:de55e61986a3fcadf4dcc6',
+    apiKey: 'fasdfjlksadfjsfsdfsf',
+    appId: 'fdasfhjdshfhdsaklfsdjafs',
     messagingSenderId: '103251756211',
     projectId: 'e-commerce-bbf91',
     storageBucket: 'e-commerce-bbf91.firebasestorage.app',
@@ -76,8 +76,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAGYMpfjjJlai_Y2xwQKHefUrIa2EpcOsw',
-    appId: '1:103251756211:web:958a71e676f75ecdf4dcc6',
+    apiKey: 'fasdfjlksadfjsfsdfsf',
+    appId: 'fdasfhjdshfhdsaklfsdjafs',
     messagingSenderId: '103251756211',
     projectId: 'e-commerce-bbf91',
     authDomain: 'e-commerce-bbf91.firebaseapp.com',
