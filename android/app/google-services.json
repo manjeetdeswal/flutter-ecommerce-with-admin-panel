@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103251756211",
+    "project_id": "e-commerce-bbf91",
+    "storage_bucket": "e-commerce-bbf91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103251756211:android:2ac9539d997a4f03f4dcc6",
+        "android_client_info": {
+          "package_name": "com.jeet_studio.ecommerce_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPJlseIgcAl5qgfYfXnvE9-uT5rI7acMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
